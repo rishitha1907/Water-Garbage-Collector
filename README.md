@@ -155,8 +155,8 @@ Water-Garbage-Collector/
 
 ## Team Members
 
-- Rishitha Vallika Pulaparthi
 - Mani Sharan Raj Mengani
+- Rishitha Vallika Pulaparthi
 - Larshitha Borra
 
 ---
